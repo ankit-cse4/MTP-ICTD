@@ -40,6 +40,6 @@ The methodology for computing stream order rasters is outlined below:
   - [Google Drive](https://drive.google.com/file/d/11O3JFBWHP-uOr97J_zNPzL2Fd4AsvdDl/view?usp=sharing)  
 
 ## Figure
-![Stream Order Raster](stream_order_raster.png)
+![Stream Order Raster](Sample_Output/stream_order_raster.png)
 **Figure 1:** The figure shows drainage lines and the stream order raster map of a micro-watershed (highlighted in red) in the Masalia block in Dumka district of Jharkhand.  
 

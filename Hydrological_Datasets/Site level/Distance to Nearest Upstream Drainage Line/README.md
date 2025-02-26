@@ -24,5 +24,5 @@ Once all distances are computed, the results undergo post-processing to ensure c
 - **Dataset:** [Google drive folder]()  
 
 ## Figure  
-![The figure shows the distance to the nearest upstream drainage line, computed at each pixel and overlaid with drainage lines of a micro-watershed (highlighted in red) in the Masalia block in Dumka district of Jharkhand.](main/Pictures_2/distance_to_nearest_upstream_drainage_line.png)  
-*Figure: Distance to the nearest upstream drainage line*  
+![Distance to upstream drainage line](Sample_output/distance_to_nearest_upstream_drainage_line.png)  
+**Figure:**  The figure shows the distance to the nearest upstream drainage line, computed at each pixel and overlaid with drainage lines of a micro-watershed (highlighted in red) in the Masalia block in Dumka district of Jharkhand.
