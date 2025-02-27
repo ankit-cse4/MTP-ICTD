@@ -36,7 +36,7 @@ The methodology for computing stream order rasters is outlined below:
 - **Spatial resolution:** 30 m  
 - **Temporal resolution:** static  
 - **Dataset:**  
-  - [EE Asset](https://code.earthengine.google.com/?asset=projects/ee-ankit-mcs/assets/Stream_Order_Raster_India)  
+  - [EE Asset](https://code.earthengine.google.com/?asset=projects/ee-ankit-mcs/assets/stream-raster/Stream_Order_Raster_India)  
   - [Google Drive](https://drive.google.com/file/d/11O3JFBWHP-uOr97J_zNPzL2Fd4AsvdDl/view?usp=sharing)  
 
 ## Figure
